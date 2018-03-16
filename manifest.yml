@@ -1,0 +1,12 @@
+---
+applications:
+- name: blockchain_service
+  instances: 1
+  path: ./
+  buildpack: python_buildpack
+  command: null
+  env:
+     DEBUG: 0
+  # for multiple apps
+  # -  routes:
+  #      - route: tcp.example.com:1234
