@@ -1,4 +1,4 @@
-## SAP Cloud Foundry - Simple deploy with python uwsgi
+## Hello World with python in SAP Cloud Foundry
 
 # Create your trial account
     - https://www.sap.com/developer/topics/cloud-platform.html
